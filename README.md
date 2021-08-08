@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Omri Meller
+- 👀 I’m interested in software projects usually in C, Python and Java
+- 🌱 I’m currently a student of software engineering in my third year
+- 📫 How to reach me: omrimeller@gmail.com
